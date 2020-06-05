@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 hello
+cp -a hello olleh
